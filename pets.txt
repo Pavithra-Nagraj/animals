@@ -1,3 +1,5 @@
 cats
 dogs 
 monkey
+pigs 
+chicken
